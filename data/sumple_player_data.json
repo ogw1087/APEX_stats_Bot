@@ -1,0 +1,23 @@
+{
+    "origin:TSM_ImperialHal": {
+      "username": "TSM_ImperialHal",
+      "platform": "origin",
+      "history": [
+        {
+          "timestamp": "2025-05-07T10:00:00",
+          "kills": 12430,
+          "matchesPlayed": 2401,
+          "rankScore": 8900,
+          "rankName": "Diamond IV"
+        },
+        {
+          "timestamp": "2025-05-06T09:00:00",
+          "kills": 12390,
+          "matchesPlayed": 2395,
+          "rankScore": 8600,
+          "rankName": "Platinum I"
+        }
+        ]
+    }
+}
+  
